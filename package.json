@@ -1,0 +1,21 @@
+{
+  "name": "namaste-react-",
+  "version": "1.0.0",
+  "description": "this is namaste react by Nidheesh",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/nidheesh47/Namaste-React-.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nidheesh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
